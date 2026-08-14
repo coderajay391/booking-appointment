@@ -2,6 +2,12 @@
 
 A modern, responsive medical appointment booking web application designed to provide a clean and user-friendly experience for patients looking for healthcare services.
 
+## Preview
+<image src="./assets/apex-medical.png"></image>
+
+## Demo
+[▶️ Demo](assets/apex-medical.mp4)
+
 ## Features
 
 * 🏥 Modern medical/healthcare interface
